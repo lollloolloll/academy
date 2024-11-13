@@ -1,4 +1,4 @@
-package ExpressionTree;
+package Class.ExpressionTree;
 
 import java.util.Stack;
 
